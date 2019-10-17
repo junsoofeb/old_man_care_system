@@ -3,8 +3,7 @@
 
 ## 1. 시연 영상
 
-<iframe width="640" height="360" src="https://youtu.be/jyHZthoSlNo" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-
+<iframe  title="YouTube video player" width="480" height="390" src="https://youtu.be/jyHZthoSlNo" frameborder="0" allowfullscreen></iframe>
 ## 1.1. 프로젝트 개요
 
  노인의 수가 매년 급증하고 있는 요즘, 노인의 건강 관리 문제 등 노인층의 삶의 질 문제가 제기되고 있다.   
