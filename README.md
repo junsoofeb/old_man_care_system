@@ -3,7 +3,9 @@
 
 ## 1. 시연 영상
 
-<iframe  title="YouTube video player" width="480" height="390" src="https://youtu.be/jyHZthoSlNo" frameborder="0" allowfullscreen></iframe>
+[![cara_system](<img width="494" alt="caresystem" src="https://user-images.githubusercontent.com/46870741/67032170-011e0b00-f14e-11e9-9750-244e7d9c90a1.png">
+)](https://www.youtube.com/watch?v=jyHZthoSlNo&feature=youtu.be "old_man_care_system")
+
 ## 1.1. 프로젝트 개요
 
  노인의 수가 매년 급증하고 있는 요즘, 노인의 건강 관리 문제 등 노인층의 삶의 질 문제가 제기되고 있다.   
